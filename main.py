@@ -14,6 +14,7 @@ async def on_ready():
   await client.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name="Netybot"))
 
 print("-------------------------------")
+print("Running✔️")
 print("Your Bot is online")
 print("Made by Puzzle_Shock1")
 print("Need help? Join our discord server: https://discord.gg/TT9gUCKVnb")
